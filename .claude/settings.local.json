@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet build)",
+      "Bash(dotnet restore)",
+      "Bash(nuget restore)",
+      "Bash(msbuild UKS-Connect.sln /t:Build /p:Configuration=Debug /v:minimal /nologo)",
+      "PowerShell(pacx auth create --name \"UKS Connect Dev\" --environment \"https://uksconnectdev.crm11.dynamics.com\")",
+      "PowerShell(pacx auth list)",
+      "PowerShell(pacx auth ping)",
+      "WebSearch"
+    ]
+  }
+}

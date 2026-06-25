@@ -1,0 +1,1 @@
+powershell .\deploy.ps1 webresources

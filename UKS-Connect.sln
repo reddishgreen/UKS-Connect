@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKS-Connect", "UKS-Connect\UKS-Connect.csproj", "{21F866C4-DE5E-484F-8870-5FEE21B6310C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F866C4-DE5E-484F-8870-5FEE21B6310C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F866C4-DE5E-484F-8870-5FEE21B6310C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F866C4-DE5E-484F-8870-5FEE21B6310C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F866C4-DE5E-484F-8870-5FEE21B6310C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8077E6E3-489D-4F6C-8730-4BFDA5034660}
+	EndGlobalSection
+EndGlobal

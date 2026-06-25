@@ -1,0 +1,4 @@
+{
+    "vault_name": "<KEYVAULT_NAME>",
+    "secret_name": "<KEYVAULT_SECRET>"
+}
