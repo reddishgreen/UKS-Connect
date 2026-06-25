@@ -101,6 +101,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="deploy-plugin.bat" />
+    <None Include="deploy-plugin.ps1" />
+    <None Include="deploy-plugin-simple.ps1" />
     <None Include="packages.config" />
     <None Include="reddishgreen.pfx" />
     <None Include="rg_spkl.json" />

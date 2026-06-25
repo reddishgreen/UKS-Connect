@@ -8,8 +8,7 @@ namespace UKS_Connect_Plugin
     "contact", StageEnum.PostOperation, ExecutionModeEnum.Synchronous,
     "", "UKS_Connect_Plugin.Contact: Create of contact", 1,
     IsolationModeEnum.Sandbox
-    // Id is assigned by spkl/Plugin Registration Tool on first registration
-    // (run rg_spkl\instrument-plugin-code.bat to write it back into this attribute).
+    , Id = "4a61137d-9f70-f111-ab0e-7c1e52039533" // SdkMessageProcessingStep registered in UKS Connect Dev (pacx, 2026-06-25)
     )]
     public class Contact : IPlugin
     {

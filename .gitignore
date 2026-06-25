@@ -6,3 +6,8 @@
 Log1.txt
 .vs/UKS-Connect/v17/DocumentLayout.json
 .claude/worktrees/
+
+# CRM deployment credentials and tokens (NEVER commit these!)
+.crm-credentials.json
+.oauth-tokencache
+*.tokencache
