@@ -11,3 +11,6 @@ Log1.txt
 .crm-credentials.json
 .oauth-tokencache
 *.tokencache
+
+# macOS
+.DS_Store
